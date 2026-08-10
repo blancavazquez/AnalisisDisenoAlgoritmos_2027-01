@@ -26,6 +26,7 @@ Parte 2:
 ## Profesor
 **Blanca Vázquez**
   - Correo: blancavazquez2013[arroba]gmail.com
+    
 **Yuriria Cortés**
   - Correo: yuriria.cortes[arroba]iimas.unam.mx 
 
