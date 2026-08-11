@@ -1,5 +1,4 @@
-# Curso "Análisis y diseño de algoritmos" 
-# (Periodo 2027-I)
+# Curso "Análisis y diseño de algoritmos" (Periodo 2027-I)
 Este repositorio contiene las libretas de trabajo y tareas del curso impartido en el [Posgrado en Ciencia e Ingeniería de la Computación](https://www.pcic.unam.mx/) en la [Unidad Académica del IIMAS en el estado de Yucatán IIMAS](https://www.iimas.unam.mx/unidad-academica-del-iimas-en-yucatan/), [UNAM](https://www.unam.mx/).
 
 ## Temario:
